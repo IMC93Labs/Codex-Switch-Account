@@ -7,7 +7,7 @@
 <a id="english"></a>
 ## English
 
-Thanks for helping improve Codex Switch Account.
+Thanks for helping improve Codex Account Switcher.
 
 ### Before opening a report
 
@@ -17,7 +17,7 @@ For application problems, include only the information needed to reproduce the i
 
 ### Where to ask
 
-- **Bug in Codex Switch Account:** open `Report a bug / Reportar un problema` in Issues.
+- **Bug in Codex Account Switcher:** open `Report a bug / Reportar un problema` in Issues.
 - **Feature or improvement:** open `Request an improvement / Solicitar una mejora` in Issues.
 - **General question/help:** use Discussions.
 - **Security/privacy-sensitive problem:** follow **[SECURITY.md](SECURITY.md)** instead of posting details publicly.
@@ -27,7 +27,7 @@ For application problems, include only the information needed to reproduce the i
 
 When relevant, include:
 
-- Codex Switch Account version;
+- Codex Account Switcher version;
 - Windows version;
 - Codex Desktop version, if known;
 - which function was being used: account switch, status refresh, Codex launch/close, backup/restore, tray/startup or other;
@@ -43,16 +43,16 @@ If the issue involves backup or restore, describe the operation and result witho
 
 ### Scope
 
-This repository supports Codex Switch Account itself. It does not provide support for bypassing OpenAI service limits, authentication, billing, policies or access controls.
+This repository supports Codex Account Switcher itself. It does not provide support for bypassing OpenAI service limits, authentication, billing, policies or access controls.
 
-Support is best-effort because Codex Switch Account is a personal hobby project maintained in free time.
+Support is best-effort because Codex Account Switcher is a personal hobby project maintained in free time.
 
 ---
 
 <a id="espanol"></a>
 ## Español
 
-Gracias por ayudar a mejorar Codex Switch Account.
+Gracias por ayudar a mejorar Codex Account Switcher.
 
 ### Antes de abrir un reporte
 
@@ -62,7 +62,7 @@ Para problemas de la aplicación, incluye solo la información necesaria para re
 
 ### Dónde preguntar
 
-- **Error de Codex Switch Account:** abre `Report a bug / Reportar un problema` en Issues.
+- **Error de Codex Account Switcher:** abre `Report a bug / Reportar un problema` en Issues.
 - **Nueva función o mejora:** abre `Request an improvement / Solicitar una mejora` en Issues.
 - **Pregunta general/ayuda:** utiliza Discussions.
 - **Problema sensible de seguridad/privacidad:** sigue **[SECURITY.md](SECURITY.md)** en lugar de publicar detalles en abierto.
@@ -72,7 +72,7 @@ Para problemas de la aplicación, incluye solo la información necesaria para re
 
 Cuando corresponda, incluye:
 
-- versión de Codex Switch Account;
+- versión de Codex Account Switcher;
 - versión de Windows;
 - versión de Codex Desktop, si la conoces;
 - función que estabas utilizando: cambio de cuenta, actualización de estado, apertura/cierre de Codex, copia/restauración, bandeja/arranque u otra;
@@ -88,10 +88,10 @@ Si el problema afecta a una copia o restauración, describe la operación y el r
 
 ### Alcance
 
-Este repositorio ofrece soporte para Codex Switch Account. No proporciona soporte para eludir límites del servicio de OpenAI, autenticación, facturación, políticas ni controles de acceso.
+Este repositorio ofrece soporte para Codex Account Switcher. No proporciona soporte para eludir límites del servicio de OpenAI, autenticación, facturación, políticas ni controles de acceso.
 
-El soporte se presta en la medida de lo posible porque Codex Switch Account es un proyecto personal mantenido como hobby en el tiempo libre.
+El soporte se presta en la medida de lo posible porque Codex Account Switcher es un proyecto personal mantenido como hobby en el tiempo libre.
 
 ---
 
-**Codex Switch Account — IMC93Labs**
+**Codex Account Switcher — IMC93Labs**
