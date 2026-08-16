@@ -1,0 +1,74 @@
+name: Request an improvement / Solicitar una mejora
+description: Suggest a useful improvement for Codex Switch Account / Propón una mejora útil para Codex Switch Account
+title: "[FEATURE] "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting an improvement.
+        Gracias por proponer una mejora.
+
+        Please explain the real use case. Requests intended to bypass authentication, billing, service limits, account policies or access controls are outside the scope of this project.
+
+        Explica el caso de uso real. Las solicitudes destinadas a eludir autenticación, facturación, límites del servicio, políticas de cuentas o controles de acceso quedan fuera del alcance del proyecto.
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area / Área
+      options:
+        - Account/profile management / Gestión de cuentas/perfiles
+        - Account status refresh / Actualización de estado de cuentas
+        - Codex launch/close handling / Apertura/cierre de Codex
+        - Backup, restore or migration / Copia, restauración o migración
+        - System tray or Windows startup / Bandeja o arranque con Windows
+        - User interface or accessibility / Interfaz o accesibilidad
+        - Reliability or performance / Fiabilidad o rendimiento
+        - Documentation or support / Documentación o soporte
+        - Other / Otra
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve? / ¿Qué problema resolvería?
+      description: Describe the current inconvenience or limitation. / Describe la molestia o limitación actual.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed improvement / Mejora propuesta
+      description: Explain how you would like it to work. / Explica cómo te gustaría que funcionase.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives or workarounds / Alternativas o soluciones actuales
+      description: Optional. What do you do today instead? / Opcional. ¿Qué haces actualmente para resolverlo?
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context / Información adicional
+      description: Screenshots are welcome only if they contain no private account/session information. / Se aceptan capturas solo si no contienen información privada de cuenta/sesión.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks / Comprobaciones
+      options:
+        - label: I searched existing Issues for a similar request. / He buscado si ya existe una solicitud similar.
+          required: true
+        - label: The request is for legitimate use of accounts I own or am authorized to use. / La solicitud es para un uso legítimo de cuentas que me pertenecen o que estoy autorizado a utilizar.
+          required: true
+        - label: The request is not intended to combine or bypass quotas, authentication, billing, access controls or OpenAI policies. / La solicitud no busca combinar ni eludir cuotas, autenticación, facturación, controles de acceso o políticas de OpenAI.
+          required: true
+        - label: I have not included credentials, tokens, cookies, session files, private backups or other sensitive information. / No he incluido credenciales, tokens, cookies, archivos de sesión, copias privadas ni otra información sensible.
+          required: true
