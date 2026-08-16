@@ -75,7 +75,7 @@ Read the full **[Disclaimer](DISCLAIMER.md)** before use.
 
 - **Bug:** use Issues → `Report a bug / Reportar un problema`.
 - **Improvement:** use Issues → `Request an improvement / Solicitar una mejora`.
-- **Questions/help:** use Discussions when enabled.
+- **Questions/help:** use Discussions.
 - **Security-sensitive issue:** read **[SECURITY.md](SECURITY.md)** and do not publish sensitive details publicly.
 - **OpenAI account, billing, subscription or service issues:** use official OpenAI support; this project cannot change account entitlements or service-side limits.
 
@@ -152,7 +152,7 @@ Lee el **[Aviso y responsabilidad](DISCLAIMER.md)** completo antes de utilizarlo
 
 - **Error:** Issues → `Report a bug / Reportar un problema`.
 - **Mejora:** Issues → `Request an improvement / Solicitar una mejora`.
-- **Preguntas/ayuda:** Discussions cuando esté habilitado.
+- **Preguntas/ayuda:** utiliza Discussions.
 - **Problema sensible de seguridad:** consulta **[SECURITY.md](SECURITY.md)** y no publiques información sensible en abierto.
 - **Problemas de cuenta, facturación, suscripción o servicio de OpenAI:** utiliza el soporte oficial de OpenAI; este proyecto no puede modificar derechos de cuenta ni límites del servicio.
 
