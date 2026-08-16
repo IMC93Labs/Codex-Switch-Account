@@ -1,4 +1,4 @@
-# Codex Switch Account
+# Codex Account Switcher
 
 **A Windows utility for managing and switching between multiple Codex Desktop account profiles more conveniently.**
 
@@ -6,16 +6,16 @@
 
 > **Status:** this public repository is prepared for official releases, documentation and support. No official executable has been published here yet.
 
-> **Unofficial project:** Codex Switch Account is an independent IMC93Labs project and is **not affiliated with, endorsed by, or sponsored by OpenAI**.
+> **Unofficial project:** Codex Account Switcher is an independent IMC93Labs project and is **not affiliated with, endorsed by, or sponsored by OpenAI**.
 
 ---
 
 <a id="english"></a>
 ## English
 
-### About Codex Switch Account
+### About Codex Account Switcher
 
-Codex Switch Account is a Windows utility designed for people who legitimately use more than one account with **Codex Desktop** and want a simpler way to manage local account/profile switching.
+Codex Account Switcher is a Windows utility designed for people who legitimately use more than one account with **Codex Desktop** and want a simpler way to manage local account/profile switching.
 
 Instead of repeatedly handling the same local switching workflow by hand, the application aims to centralize common tasks such as selecting an account profile, opening Codex, refreshing displayed account information and managing local backup/restore workflows related to the application's supported data.
 
@@ -36,7 +36,7 @@ Exact behaviour can vary between versions of Codex Desktop and Windows. Features
 
 ### What this project does **not** do
 
-Codex Switch Account is not intended to:
+Codex Account Switcher is not intended to:
 
 - create or provide OpenAI accounts;
 - combine subscriptions, usage quotas or account entitlements;
@@ -63,11 +63,11 @@ See **[SECURITY.md](SECURITY.md)** for security-sensitive reports and **[SUPPORT
 
 ### Important notice
 
-Codex Switch Account is a **personal hobby project developed in the author's free time**. The author is **not a professional software developer**.
+Codex Account Switcher is a **personal hobby project developed in the author's free time**. The author is **not a professional software developer**.
 
 Development is carried out through **AI-assisted vibe coding**, using artificial-intelligence tools to generate, modify, review, document and test parts of the project.
 
-The application is designed and tested with safety and reliability in mind, but software — including AI-assisted software — can contain defects, compatibility problems or unexpected behaviour. Codex Switch Account is therefore provided **as-is, without warranties**, and each user is responsible for deciding whether to use it and for maintaining appropriate backups of important data.
+The application is designed and tested with safety and reliability in mind, but software — including AI-assisted software — can contain defects, compatibility problems or unexpected behaviour. Codex Account Switcher is therefore provided **as-is, without warranties**, and each user is responsible for deciding whether to use it and for maintaining appropriate backups of important data.
 
 Read the full **[Disclaimer](DISCLAIMER.md)** before use.
 
@@ -90,9 +90,9 @@ This repository is used for **official releases, public documentation and suppor
 <a id="espanol"></a>
 ## Español
 
-### Acerca de Codex Switch Account
+### Acerca de Codex Account Switcher
 
-Codex Switch Account es una utilidad para Windows diseñada para personas que utilizan legítimamente más de una cuenta con **Codex Desktop** y quieren una forma más sencilla de gestionar el cambio entre perfiles/cuentas locales.
+Codex Account Switcher es una utilidad para Windows diseñada para personas que utilizan legítimamente más de una cuenta con **Codex Desktop** y quieren una forma más sencilla de gestionar el cambio entre perfiles/cuentas locales.
 
 En lugar de repetir manualmente el mismo proceso de cambio, la aplicación busca centralizar tareas habituales como seleccionar un perfil, abrir Codex, actualizar la información mostrada de las cuentas y gestionar copias/restauraciones locales de los datos compatibles con la aplicación.
 
@@ -113,7 +113,7 @@ El comportamiento exacto puede variar según la versión de Codex Desktop y Wind
 
 ### Lo que este proyecto **no** hace
 
-Codex Switch Account no está pensado para:
+Codex Account Switcher no está pensado para:
 
 - crear ni proporcionar cuentas de OpenAI;
 - combinar suscripciones, cuotas de uso o derechos de distintas cuentas;
@@ -140,11 +140,11 @@ Consulta **[SECURITY.md](SECURITY.md)** para informes sensibles de seguridad y *
 
 ### Aviso importante
 
-Codex Switch Account es un **proyecto personal creado como hobby y desarrollado en el tiempo libre de su autor**. El autor **no es desarrollador de software profesional**.
+Codex Account Switcher es un **proyecto personal creado como hobby y desarrollado en el tiempo libre de su autor**. El autor **no es desarrollador de software profesional**.
 
 El desarrollo se realiza mediante **vibe coding asistido por inteligencia artificial**, utilizando herramientas de IA para generar, modificar, revisar, documentar y probar partes del proyecto.
 
-La aplicación se diseña y prueba buscando seguridad y fiabilidad, pero cualquier software — incluido el desarrollado con asistencia de IA — puede contener errores, problemas de compatibilidad o comportamientos no previstos. Codex Switch Account se proporciona por tanto **tal cual y sin garantías**, y cada usuario es responsable de decidir si desea utilizarlo y de mantener copias adecuadas de sus datos importantes.
+La aplicación se diseña y prueba buscando seguridad y fiabilidad, pero cualquier software — incluido el desarrollado con asistencia de IA — puede contener errores, problemas de compatibilidad o comportamientos no previstos. Codex Account Switcher se proporciona por tanto **tal cual y sin garantías**, y cada usuario es responsable de decidir si desea utilizarlo y de mantener copias adecuadas de sus datos importantes.
 
 Lee el **[Aviso y responsabilidad](DISCLAIMER.md)** completo antes de utilizarlo.
 
@@ -164,4 +164,4 @@ Este repositorio se utiliza para **versiones oficiales, documentación pública 
 
 ---
 
-**Codex Switch Account — IMC93Labs**
+**Codex Account Switcher — IMC93Labs**
