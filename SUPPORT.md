@@ -19,7 +19,7 @@ For application problems, include only the information needed to reproduce the i
 
 - **Bug in Codex Switch Account:** open `Report a bug / Reportar un problema` in Issues.
 - **Feature or improvement:** open `Request an improvement / Solicitar una mejora` in Issues.
-- **General question/help:** use Discussions when enabled.
+- **General question/help:** use Discussions.
 - **Security/privacy-sensitive problem:** follow **[SECURITY.md](SECURITY.md)** instead of posting details publicly.
 - **OpenAI account, login, subscription, billing, quota or service issue:** use official OpenAI support. IMC93Labs cannot change OpenAI account entitlements or service-side behaviour.
 
@@ -64,7 +64,7 @@ Para problemas de la aplicación, incluye solo la información necesaria para re
 
 - **Error de Codex Switch Account:** abre `Report a bug / Reportar un problema` en Issues.
 - **Nueva función o mejora:** abre `Request an improvement / Solicitar una mejora` en Issues.
-- **Pregunta general/ayuda:** utiliza Discussions cuando esté habilitado.
+- **Pregunta general/ayuda:** utiliza Discussions.
 - **Problema sensible de seguridad/privacidad:** sigue **[SECURITY.md](SECURITY.md)** en lugar de publicar detalles en abierto.
 - **Problema de cuenta, inicio de sesión, suscripción, facturación, cuota o servicio de OpenAI:** utiliza el soporte oficial de OpenAI. IMC93Labs no puede modificar derechos de cuenta ni el comportamiento del servicio de OpenAI.
 
