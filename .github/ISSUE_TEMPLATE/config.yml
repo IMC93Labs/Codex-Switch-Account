@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Support guide / Guía de soporte
+    url: https://github.com/IMC93Labs/Codex-Switch-Account/blob/main/SUPPORT.md
+    about: Check where to report bugs, ask for help or request improvements / Consulta dónde informar de errores, pedir ayuda o proponer mejoras
+  - name: Security policy / Política de seguridad
+    url: https://github.com/IMC93Labs/Codex-Switch-Account/blob/main/SECURITY.md
+    about: Do not publish sensitive account or session information in public Issues / No publiques información sensible de cuenta o sesión en Issues públicos
+  - name: Official OpenAI help / Ayuda oficial de OpenAI
+    url: https://help.openai.com/
+    about: For OpenAI account, billing, subscription, quota or service issues / Para problemas de cuenta, facturación, suscripción, cuota o servicio de OpenAI
