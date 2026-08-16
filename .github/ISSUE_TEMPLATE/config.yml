@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Questions and help / Preguntas y ayuda
+    url: https://github.com/IMC93Labs/Codex-Switch-Account/discussions
+    about: Use Discussions for general questions and usage help / Usa Discussions para preguntas generales y ayuda de uso
   - name: Support guide / Guía de soporte
     url: https://github.com/IMC93Labs/Codex-Switch-Account/blob/main/SUPPORT.md
     about: Check where to report bugs, ask for help or request improvements / Consulta dónde informar de errores, pedir ayuda o proponer mejoras
