@@ -9,7 +9,7 @@
 
 ### Independent hobby project
 
-Codex Switch Account is a personal hobby project developed in the author's free time. **It is not developed by a professional software developer or a software company.**
+Codex Account Switcher is a personal hobby project developed in the author's free time. **It is not developed by a professional software developer or a software company.**
 
 This project is independent and is **not affiliated with, endorsed by, sponsored by, or officially supported by OpenAI**. "OpenAI", "Codex" and related names belong to their respective owners.
 
@@ -21,7 +21,7 @@ AI systems can make mistakes. Automated tests, manual testing and review reduce 
 
 ### Account and local-data handling
 
-Codex Switch Account is designed to simplify local management of Codex Desktop account/profile switching and related supported local data.
+Codex Account Switcher is designed to simplify local management of Codex Desktop account/profile switching and related supported local data.
 
 Depending on the application version and Codex Desktop behaviour, switching, backup or restore operations may interact with local configuration, session/profile information, application state or other supported data. These areas can change between Codex Desktop or Windows versions.
 
@@ -31,7 +31,7 @@ Never share authentication tokens, cookies, credentials, private session files o
 
 ### Authorized use only
 
-Use Codex Switch Account only with accounts that belong to you or that you are authorized to use.
+Use Codex Account Switcher only with accounts that belong to you or that you are authorized to use.
 
 The project is not intended to combine subscriptions or quotas, bypass service limits, defeat authentication or access controls, evade billing, or circumvent OpenAI policies or terms. It does not grant additional service entitlement.
 
@@ -41,7 +41,7 @@ Users are responsible for complying with the terms, policies and licensing condi
 
 Codex Desktop and related OpenAI services are third-party software/services that may change independently of this project. Updates to them may alter file locations, login/session behaviour, compatibility or functionality without notice.
 
-No guarantee is made that Codex Switch Account will remain compatible with every past or future Codex Desktop version or every Windows configuration.
+No guarantee is made that Codex Account Switcher will remain compatible with every past or future Codex Desktop version or every Windows configuration.
 
 ### No warranty
 
@@ -62,7 +62,7 @@ Do not publish credentials, tokens, cookies, private backups, session data or se
 
 ### Proyecto independiente realizado como hobby
 
-Codex Switch Account es un proyecto personal creado como hobby y desarrollado en el tiempo libre de su autor. **No está desarrollado por un programador profesional ni por una empresa de software.**
+Codex Account Switcher es un proyecto personal creado como hobby y desarrollado en el tiempo libre de su autor. **No está desarrollado por un programador profesional ni por una empresa de software.**
 
 Este proyecto es independiente y **no está afiliado, respaldado, patrocinado ni soportado oficialmente por OpenAI**. "OpenAI", "Codex" y otros nombres relacionados pertenecen a sus respectivos propietarios.
 
@@ -74,7 +74,7 @@ Los sistemas de IA pueden cometer errores. Las pruebas automatizadas, las prueba
 
 ### Gestión de cuentas y datos locales
 
-Codex Switch Account está diseñado para simplificar la gestión local del cambio entre cuentas/perfiles de Codex Desktop y los datos locales compatibles relacionados con esa función.
+Codex Account Switcher está diseñado para simplificar la gestión local del cambio entre cuentas/perfiles de Codex Desktop y los datos locales compatibles relacionados con esa función.
 
 Según la versión de la aplicación y el comportamiento de Codex Desktop, las operaciones de cambio, copia o restauración pueden interactuar con configuración local, información de sesión/perfil, estado de la aplicación u otros datos compatibles. Estas áreas pueden cambiar entre versiones de Codex Desktop o Windows.
 
@@ -84,7 +84,7 @@ No compartas públicamente tokens de autenticación, cookies, credenciales, arch
 
 ### Uso autorizado únicamente
 
-Utiliza Codex Switch Account solo con cuentas que te pertenezcan o que estés autorizado a utilizar.
+Utiliza Codex Account Switcher solo con cuentas que te pertenezcan o que estés autorizado a utilizar.
 
 El proyecto no está pensado para combinar suscripciones o cuotas, eludir límites del servicio, superar controles de autenticación o acceso, evitar facturación ni eludir políticas o condiciones de OpenAI. La herramienta no concede derechos adicionales de uso del servicio.
 
@@ -94,7 +94,7 @@ Cada usuario es responsable de cumplir las condiciones, políticas y licencias a
 
 Codex Desktop y los servicios relacionados de OpenAI son software/servicios de terceros que pueden cambiar independientemente de este proyecto. Sus actualizaciones pueden modificar ubicaciones de archivos, comportamiento de inicio de sesión/sesión, compatibilidad o funciones sin previo aviso.
 
-No se garantiza que Codex Switch Account siga siendo compatible con todas las versiones pasadas o futuras de Codex Desktop ni con todas las configuraciones de Windows.
+No se garantiza que Codex Account Switcher siga siendo compatible con todas las versiones pasadas o futuras de Codex Desktop ni con todas las configuraciones de Windows.
 
 ### Sin garantías
 
@@ -110,4 +110,4 @@ No publiques credenciales, tokens, cookies, copias privadas, datos de sesión ni
 
 ---
 
-**Codex Switch Account — IMC93Labs**
+**Codex Account Switcher — IMC93Labs**
