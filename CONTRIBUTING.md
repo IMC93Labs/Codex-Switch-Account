@@ -7,7 +7,7 @@
 <a id="english"></a>
 ## English
 
-Thanks for your interest in improving Codex Switch Account.
+Thanks for your interest in improving Codex Account Switcher.
 
 This public repository is focused on **official releases, documentation and support**. The application source code is not published here, so contributions are mainly useful through high-quality bug reports, feature suggestions, documentation corrections and reproducible compatibility information.
 
@@ -43,7 +43,7 @@ The maintainer may adapt, combine or decline suggestions based on project scope,
 <a id="espanol"></a>
 ## Español
 
-Gracias por tu interés en mejorar Codex Switch Account.
+Gracias por tu interés en mejorar Codex Account Switcher.
 
 Este repositorio público está centrado en **Releases oficiales, documentación y soporte**. El código fuente de la aplicación no se publica aquí, por lo que las aportaciones son especialmente útiles mediante informes de errores de calidad, propuestas de funciones, correcciones de documentación e información de compatibilidad reproducible.
 
@@ -76,4 +76,4 @@ El mantenedor puede adaptar, combinar o rechazar propuestas según el alcance de
 
 ---
 
-**Codex Switch Account — IMC93Labs**
+**Codex Account Switcher — IMC93Labs**
