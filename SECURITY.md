@@ -7,7 +7,7 @@
 <a id="english"></a>
 ## English
 
-Codex Switch Account may interact with local Codex Desktop account/profile and session-related data. Security and privacy reports are therefore taken seriously.
+Codex Account Switcher may interact with local Codex Desktop account/profile and session-related data. Security and privacy reports are therefore taken seriously.
 
 ### Please do not open a public Issue for
 
@@ -22,7 +22,7 @@ Use GitHub's **Private vulnerability reporting** for this repository when availa
 
 ### Include
 
-- affected Codex Switch Account version;
+- affected Codex Account Switcher version;
 - Windows version;
 - Codex Desktop version, if known;
 - clear impact description;
@@ -34,7 +34,7 @@ Do **not** include real authentication tokens, cookies, passwords, private keys,
 
 ### Scope
 
-Reports about Codex Switch Account's own behaviour are welcome.
+Reports about Codex Account Switcher's own behaviour are welcome.
 
 Requests or reports whose purpose is to bypass OpenAI authentication, service limits, billing, access controls or account policies are outside the scope of this repository. Problems with OpenAI accounts, subscriptions, billing or service availability should be reported to official OpenAI support.
 
@@ -45,7 +45,7 @@ No response-time or remediation-time guarantee is provided because this is a per
 <a id="espanol"></a>
 ## Español
 
-Codex Switch Account puede interactuar con datos locales relacionados con cuentas/perfiles y sesiones de Codex Desktop. Por ello, los informes de seguridad y privacidad se consideran importantes.
+Codex Account Switcher puede interactuar con datos locales relacionados con cuentas/perfiles y sesiones de Codex Desktop. Por ello, los informes de seguridad y privacidad se consideran importantes.
 
 ### No abras un Issue público para
 
@@ -60,7 +60,7 @@ Utiliza **Private vulnerability reporting** de GitHub para este repositorio cuan
 
 ### Incluye
 
-- versión afectada de Codex Switch Account;
+- versión afectada de Codex Account Switcher;
 - versión de Windows;
 - versión de Codex Desktop, si la conoces;
 - descripción clara del impacto;
@@ -72,7 +72,7 @@ No incluyas **tokens de autenticación reales, cookies, contraseñas, claves pri
 
 ### Alcance
 
-Se aceptan informes sobre el comportamiento propio de Codex Switch Account.
+Se aceptan informes sobre el comportamiento propio de Codex Account Switcher.
 
 Quedan fuera del alcance las solicitudes o informes cuyo objetivo sea eludir la autenticación de OpenAI, límites del servicio, facturación, controles de acceso o políticas de cuentas. Los problemas de cuentas, suscripciones, facturación o disponibilidad del servicio de OpenAI deben dirigirse al soporte oficial de OpenAI.
 
@@ -80,4 +80,4 @@ No se garantiza un plazo de respuesta o corrección porque se trata de un proyec
 
 ---
 
-**Codex Switch Account — IMC93Labs**
+**Codex Account Switcher — IMC93Labs**
