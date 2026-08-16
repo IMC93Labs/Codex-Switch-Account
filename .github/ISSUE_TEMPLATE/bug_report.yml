@@ -1,5 +1,5 @@
 name: Report a bug / Reportar un problema
-description: Report unexpected behaviour in Codex Switch Account / Informa de un error o comportamiento inesperado
+description: Report unexpected behaviour in Codex Account Switcher / Informa de un error o comportamiento inesperado
 title: "[BUG] "
 labels:
   - bug
@@ -12,14 +12,14 @@ body:
 
         **Important / Importante:** do not include authentication tokens, cookies, passwords, session files, account backups, private conversations or other sensitive data.
 
-        Codex Switch Account is an independent hobby project and is not affiliated with or endorsed by OpenAI.
+        Codex Account Switcher is an independent hobby project and is not affiliated with or endorsed by OpenAI.
 
         Read / Lee: [Support / Soporte](https://github.com/IMC93Labs/Codex-Switch-Account/blob/main/SUPPORT.md)
 
   - type: input
     id: version
     attributes:
-      label: Codex Switch Account version / Versión de Codex Switch Account
+      label: Codex Account Switcher version / Versión de Codex Account Switcher
       placeholder: "e.g. / ej. v1.0.0"
     validations:
       required: true
@@ -112,5 +112,5 @@ body:
           required: true
         - label: I have not included authentication tokens, cookies, passwords, session files, account backups, private conversations or other sensitive data. / No he incluido tokens de autenticación, cookies, contraseñas, archivos de sesión, copias de cuentas, conversaciones privadas ni otros datos sensibles.
           required: true
-        - label: This report is about Codex Switch Account itself, not an OpenAI billing, quota, subscription or service issue. / Este reporte trata sobre Codex Switch Account, no sobre un problema de facturación, cuota, suscripción o servicio de OpenAI.
+        - label: This report is about Codex Account Switcher itself, not an OpenAI billing, quota, subscription or service issue. / Este reporte trata sobre Codex Account Switcher, no sobre un problema de facturación, cuota, suscripción o servicio de OpenAI.
           required: true
