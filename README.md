@@ -2,21 +2,29 @@
 
 # Codex Account Switcher
 
-**Gestiona y cambia entre varias cuentas de Codex Desktop desde una sola aplicación para Windows.**
+**Gestiona y cambia entre varias cuentas de Codex Desktop desde una sola aplicación para Windows.**  
+**Manage and switch between multiple Codex Desktop accounts from one Windows application.**
 
 `Windows 10/11` · `.NET 8` · `x64` · `OneFile` · `Self-contained`
 
-[**Descargar última versión**](../../releases/latest) · [Soporte](SUPPORT.md) · [Seguridad](SECURITY.md) · [Cambios](CHANGELOG.md)
+[**Español**](#español) · [**English**](#english)
+
+[**Última versión / Latest release**](../../releases/latest) · [Soporte / Support](SUPPORT.md) · [Seguridad / Security](SECURITY.md) · [Cambios / Changelog](CHANGELOG.md)
 
 </div>
 
 > [!IMPORTANT]
-> **Descarga recomendada:** abre la última **Release** y descarga `CodexAccountSwitcher.exe`. No necesita instalación.
+> **Descarga recomendada / Recommended download:** abre la última **Release** y descarga `CodexAccountSwitcher.exe`. No necesita instalación.  
+> Open the latest **Release** and download `CodexAccountSwitcher.exe`. No installation is required.
 
 > [!NOTE]
-> Proyecto independiente de **IMC93Labs**. No está afiliado, respaldado ni patrocinado por OpenAI.
+> Proyecto independiente de **IMC93Labs**. No está afiliado, respaldado ni patrocinado por OpenAI.  
+> Independent **IMC93Labs** project. It is not affiliated with, endorsed by, or sponsored by OpenAI.
 
 ---
+
+<a id="español"></a>
+# Español
 
 ## Qué hace
 
@@ -86,26 +94,82 @@ La herramienta no crea cuentas, no combina suscripciones, no suma cuotas entre c
 
 Codex Account Switcher es un proyecto personal de IMC93Labs desarrollado con asistencia de herramientas de IA. Se publica **tal cual y sin garantías**; conserva copias de seguridad de cualquier dato importante. Consulta [DISCLAIMER.md](DISCLAIMER.md) para el aviso completo.
 
+<p align="right"><a href="#codex-account-switcher">↑ Volver arriba</a></p>
+
 ---
 
-<details>
-<summary><b>English</b></summary>
+<a id="english"></a>
+# English
 
-### Codex Account Switcher
+## What it does
 
-A Windows utility for people who legitimately use multiple owned or authorized Codex Desktop accounts and want a cleaner local switching workflow.
+Codex Account Switcher provides a compact interface for the legitimate use of multiple **Codex Desktop** accounts that you own or are authorized to use.
 
-**Main features:** up to 8 saved accounts, manual account switching, usage-limit and credit display when reported by Codex, system tray/startup options, encrypted account/history backups, full PC-to-PC migration, and an integrated updater using this repository's official Releases.
+- Store up to **8 accounts** locally.
+- Quickly switch accounts manually, with no automatic quota balancing or rotation.
+- Read usage limits and reset windows when Codex reports them.
+- Display available balance/credits when provided by Codex.
+- Open and control Codex Desktop from the utility.
+- Periodically refresh account information.
+- System tray integration and optional Windows startup.
+- Encrypted backups of accounts, local history and complete PC-to-PC migration.
+- Integrated updater using the official Releases from this repository.
 
-**Recommended download:** open the [latest Release](../../releases/latest) and download `CodexAccountSwitcher.exe`. The app is Windows x64, self-contained and OneFile.
+## Demo screenshots
 
-The application source code is **not published in this repository**. GitHub's automatically generated `Source code (zip)` and `Source code (tar.gz)` downloads contain only this public release/documentation repository, not the application's private source code.
+The screenshots below reproduce the application interface using **completely fictional accounts and data**. They do not contain the developer's real email addresses, tokens or private information.
 
-This is an independent IMC93Labs project and is **not affiliated with, endorsed by, or sponsored by OpenAI**. It does not create accounts, combine subscriptions or quotas, or bypass service limits, billing, authentication or access controls.
+### Main window
 
-For support see [SUPPORT.md](SUPPORT.md), for security-sensitive reports see [SECURITY.md](SECURITY.md), and for the full notice see [DISCLAIMER.md](DISCLAIMER.md).
+![Codex Account Switcher - main window with demo data](assets/screenshots/main-demo.svg)
 
-</details>
+<table>
+<tr>
+<td width="50%" valign="top"><b>About</b><br><br><img src="assets/screenshots/about-demo.svg" alt="About window" width="100%"></td>
+<td width="50%" valign="top"><b>Settings and migration</b><br><br><img src="assets/screenshots/settings-demo.svg" alt="Settings window" width="100%"></td>
+</tr>
+</table>
+
+## Download and integrity
+
+Official builds are published only through **[GitHub Releases](../../releases)**.
+
+1. Download `CodexAccountSwitcher.exe` from the latest Release.
+2. To verify the download, compare its SHA-256 hash with `SHA256SUMS.txt`.
+3. `RELEASE_MANIFEST.json` records the version, architecture, build information, tests and warnings for each release.
+4. `update.json` is used by the application's integrated updater.
+
+The published executable is **Windows x64, self-contained and OneFile**, so a separate .NET installation is not required.
+
+### About “Source code (zip)” and “Source code (tar.gz)”
+
+GitHub automatically generates these two downloads for every tag. In this repository they contain **only the public documentation and release metadata stored in this Releases repository**; they **do not contain the Codex Account Switcher application source code**.
+
+## Privacy and security
+
+- The application source code is **not published in this repository**.
+- Credentials and session information must not be posted in Issues, screenshots or logs.
+- Portable backups created by the application are encrypted with a password chosen by the user.
+- Sensitive local data is protected again with Windows DPAPI when restored for the destination Windows user.
+- Read [SECURITY.md](SECURITY.md) before publicly reporting a security-sensitive issue.
+
+## Responsible use
+
+The tool does not create accounts, combine subscriptions, merge quotas or attempt to bypass service limits, billing, authentication or access controls. Users are responsible for using only accounts they own or are authorized to access and for complying with the applicable service terms.
+
+## Support
+
+- **Bugs:** Issues → `Report a bug / Reportar un problema`.
+- **Improvements:** Issues → `Request an improvement / Solicitar una mejora`.
+- **General help:** Discussions.
+- **Security:** [SECURITY.md](SECURITY.md).
+- **Full support guide:** [SUPPORT.md](SUPPORT.md).
+
+## Notice
+
+Codex Account Switcher is a personal IMC93Labs project developed with the assistance of AI tools. It is provided **as-is and without warranty**; keep appropriate backups of important data. See [DISCLAIMER.md](DISCLAIMER.md) for the full notice.
+
+<p align="right"><a href="#codex-account-switcher">↑ Back to top</a></p>
 
 ---
 
