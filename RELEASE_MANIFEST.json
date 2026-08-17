@@ -1,0 +1,48 @@
+{
+  "productName": "Codex Account Switcher",
+  "version": "1.7.2",
+  "releaseDate": "2026-08-17",
+  "buildDate": "2026-08-17T12:39:51+02:00",
+  "targetRuntime": "win-x64",
+  "architecture": "x64",
+  "selfContained": true,
+  "singleFile": true,
+  "repository": "https://github.com/IMC93Labs/CodexAccountSwitcher-Releases",
+  "artifacts": [
+    {
+      "name": "CodexAccountSwitcher.exe",
+      "sha256": "3E4F191A3B6C26519EE90FBBDA993FF98625F92034A181F90C36C42B3AC2BA88",
+      "sizeBytes": 163909697
+    },
+    {
+      "name": "CodexAccountSwitcher-v1.7.2-win-x64.zip",
+      "sha256": "54AEB149699D38E0A0D0B13B99B37533DC4CE946A9888A0D5847D786824B291B",
+      "sizeBytes": 69626286
+    }
+  ],
+  "changes": [
+    "El saldo de créditos descarta fracciones internas antes de convertirlo a euros.",
+    "Las ejecuciones posteriores activan la instancia existente."
+  ],
+  "testsPerformed": [
+    "dotnet build codigo\\CodexAccountSwitcher.csproj -c Release",
+    "dotnet publish para win-x64, self-contained y single-file",
+    "Verificación de versión embebida del EXE",
+    "Verificación SHA-256 del EXE y del ZIP",
+    "Comprobaciones de conversión de saldo: 898.75 a 35,92 EUR; 912.618156 a 36,48 EUR; 36.927703 a 1,44 EUR"
+  ],
+  "testsPassed": true,
+  "testsNotPerformed": [
+    "No se encontró un proyecto de pruebas automatizadas en el código disponible."
+  ],
+  "warnings": [
+    "NU1900: NuGet no pudo consultar datos de vulnerabilidades por restricción de red; la compilación finalizó correctamente."
+  ],
+  "knownIssues": [
+    "Las instancias de versiones anteriores que ya estaban abiertas deben cerrarse manualmente una vez."
+  ],
+  "breakingChanges": [],
+  "migrationNotes": [
+    "No se requiere migración."
+  ]
+}

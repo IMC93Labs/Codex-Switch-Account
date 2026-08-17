@@ -4,7 +4,7 @@
 
 [English](#english) · [Español](#espanol)
 
-> **Status:** this public repository is prepared for official releases, documentation and support. No official executable has been published here yet.
+> **Status:** this public repository contains official releases, documentation and support.
 
 > **Unofficial project:** Codex Account Switcher is an independent IMC93Labs project and is **not affiliated with, endorsed by, or sponsored by OpenAI**.
 
@@ -49,9 +49,7 @@ Users remain responsible for complying with the terms, policies and licensing co
 
 ### Download
 
-Official versions will be published in the **Releases** section of this repository.
-
-No executable is available here yet. When the first public version is ready, this section will be updated with the official download and verification information.
+Download official versions from the **Releases** section of this repository. Verify downloaded artifacts with `SHA256SUMS.txt`.
 
 ### Privacy and account data
 
@@ -126,9 +124,7 @@ Cada usuario sigue siendo responsable de cumplir las condiciones, políticas y l
 
 ### Descargar
 
-Las versiones oficiales se publicarán en la sección **Releases** de este repositorio.
-
-Todavía no se ha publicado aquí ningún ejecutable. Cuando esté preparada la primera versión pública, esta sección se actualizará con la descarga oficial y la información de verificación.
+Descarga las versiones oficiales desde la sección **Releases** de este repositorio. Verifica los artefactos descargados con `SHA256SUMS.txt`.
 
 ### Privacidad y datos de las cuentas
 
