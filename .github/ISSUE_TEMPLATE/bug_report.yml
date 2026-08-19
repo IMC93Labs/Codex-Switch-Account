@@ -13,8 +13,9 @@ body:
         **Important / Importante:** do not include authentication tokens, cookies, passwords, session files, account backups, private conversations or other sensitive data.
 
         Codex Account Switcher is an independent hobby project and is not affiliated with or endorsed by OpenAI.
+        Codex Account Switcher es un proyecto independiente creado como hobby y no está afiliado ni respaldado por OpenAI.
 
-        Read / Lee: [Support / Soporte](https://github.com/IMC93Labs/Codex-Switch-Account/blob/main/SUPPORT.md)
+        Read / Lee: [Support / Soporte](https://github.com/IMC93Labs/CodexAccountSwitcher-Releases/blob/main/SUPPORT.md)
 
   - type: input
     id: version
